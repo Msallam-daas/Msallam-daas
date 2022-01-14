@@ -4,7 +4,7 @@
 <h2>Hey there! I'm Msallam Daas</h2>
 <img height="350px" width="1000px" src="./assets/js.gif">
 
-### **_a Spent 6500+ hours of practical experience coding responsive and dynamic websites. Motivated by the curiosity about the way life is being transformed by technology. I do enjoy problem-solving and taking care of the user experience._**</br></br>
+
 
 
 <img alt="Night Coding" width="350px" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" align="right" />
