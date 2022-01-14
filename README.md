@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<a href="https://github.com/azmitammam">
+<a href="https://github.com/Msallam-daas">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=azmitammam&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Azmi Github Status logo" />
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmitammam&layout=compact&langs_count=8&theme=algolia" />
 </a>
@@ -42,7 +42,8 @@
 <p align="center">
 
 <a href="https://github.com/AzmiTammam"> <img src="https://img.shields.io/github/followers/AzmiTammam?style=social" alt="Github Logo"></a>
-<a href="https://twitter.com/intent/follow?screen_name=azzmmii"> <img src="https://img.shields.io/twitter/follow/Azzmmii?style=social" alt="twitter Logo"></a><a href="mailto:azmitammam@gmail.com"><img src="https://img.shields.io/badge/-AzmiTammam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/azmitammam/"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
+<a href="mailto:msallam.daas@gmail.com"><img src="https://img.shields.io/badge/-AzmiTammam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="www.linkedin.com/in/msallam-daas
+"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a><a href="https://dev.to/azmitammam"><img src="https://img.shields.io/badge/-AzmiTammam-0A0A0A?style=flat&logo=dev.to&logoColor=white" /></a>
 
 </p>
 </a>
