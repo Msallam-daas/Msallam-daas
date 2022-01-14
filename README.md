@@ -21,7 +21,14 @@
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobexd)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br><br>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+
+<a href="https://github.com/Msallam-daas">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Msallam-daas&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Msallam-daas" Github Status logo" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmitammam&layout=compact&langs_count=8&theme=algolia" /></a>
+</p>
 
 
 
