@@ -28,8 +28,8 @@
 <p align="center">
 
 <a href="https://github.com/Msallam-daas">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=azmitammam&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Azmi Github Status logo" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmitammam&layout=compact&langs_count=8&theme=algolia" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Msallam-daas&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Msallam-daas" Github Status logo" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Msallam-daas&layout=compact&langs_count=8&theme=algolia" />
 </a>
 </p>
 
