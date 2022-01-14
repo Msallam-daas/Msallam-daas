@@ -23,23 +23,7 @@
 <br><br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 
-<a href="https://github.com/Msallam-daas">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Msallam-daas&include_all_commits=true&show_icons=true&count_private=true&theme=algolia" alt="Msallam-daas" Github Status logo" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmitammam&layout=compact&langs_count=8&theme=algolia" /></a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-
-<a href="https://github.com/Msallam-daas"> <img src="https://img.shields.io/github/followers/Msallam-daas?style=social" alt="Github Logo"></a>
-<a href="mailto:msallam.daas@gmail.com"><img src="https://img.shields.io/badge/-msallam.daas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/msallam-daas/
-"><img src="https://img.shields.io/badge/-Msallam%20-daas-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-
-</p>
 </a>
 <div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
