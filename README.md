@@ -38,7 +38,7 @@
 
 <a href="https://github.com/Msallam-daas"> <img src="https://img.shields.io/github/followers/Msallam-daas?style=social" alt="Github Logo"></a>
 <a href="mailto:msallam.daas@gmail.com"><img src="https://img.shields.io/badge/-msallam.daas@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/msallam-daas/
-"><img src="https://img.shields.io/badge/-Azmi%20Tammam-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+"><img src="https://img.shields.io/badge/-Msallam%20-daas-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 
 </p>
 </a>
